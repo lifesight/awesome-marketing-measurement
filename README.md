@@ -120,7 +120,7 @@ Platforms and frameworks that deliberately combine MMM + incrementality + attrib
 
 An emerging space: agent skills and Model Context Protocol (MCP) servers that let assistants like Claude operate measurement platforms directly. Early but growing — contributions especially welcome here.
 
-- [Lifesight Skills](https://lifesight.io/mcp) — Agent skills (Claude Code plugin + Claude.ai bundle) for the Lifesight MCP: budget optimization, forecasting, incrementality, and board/CFO reporting. *(Maintainer of this list.)*
+- [Lifesight Skills](https://github.com/lifesight/lifesight) — Open-source agent skills (Claude Code plugin + Claude.ai bundle) for the Lifesight MCP: budget optimization, forecasting, incrementality, and board/CFO reporting. *(Maintainer of this list.)*
 - [Model Context Protocol](https://modelcontextprotocol.io) — The open standard these integrations build on.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Broader catalog of MCP servers (useful cross-reference for analytics/marketing servers).
 
