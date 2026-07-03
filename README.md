@@ -67,6 +67,7 @@ The vocabulary and mental models the rest of this list builds on.
 - [Paramark](https://paramark.com) — Incrementality and MMM combined with growth advisory.
 - [Prescient AI](https://prescientai.com) — MMM-driven media measurement and optimization for ecommerce.
 - [Recast](https://getrecast.com) — Bayesian MMM platform; publishes public holdout-accuracy benchmarks.
+- [Mautic](https://www.mautic.org) - Open-source marketing automation platform for email campaigns, segmentation, lead management, and customer journeys.
 
 ## Incrementality & Geo Experiments
 
