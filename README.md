@@ -163,6 +163,7 @@ Foundational and frequently-cited work.
 - **Causal Inference for the Brave and True** — Matheus Facure. [Free online](https://matheusfacure.github.io/python-causality-handbook/).
 - **The Book of Why** — Judea Pearl & Dana Mackenzie. Accessible introduction to causal reasoning.
 - **Causal Inference: What If** — Hernán & Robins. [Free PDF](https://www.hsph.harvard.edu/miguel-hernan/causal-inference-book/).
+- **Click Here: The Art and Science of Digital Marketing and Advertising** — Alex Schultz. Practitioner book on digital marketing measurement: incrementality, experimentation and marginal-ROI budget allocation, drawn from two decades at Meta and eBay. [Book site](https://clickheretogrow.com)
 
 ## Courses & Learning
 
