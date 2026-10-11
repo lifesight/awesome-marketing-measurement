@@ -64,6 +64,7 @@ The vocabulary and mental models the rest of this list builds on.
 - [Measured](https://measured.com) — Enterprise incrementality and media-mix measurement.
 - [Mutinex](https://mutinex.co) — Commercial MMM / marketing investment decisioning platform.
 - [Nielsen](https://nielsen.com) — Established cross-media measurement and marketing mix modeling.
+- [Odins](https://odins.ai) — Managed Bayesian MMM platform covering online and offline media, with scenario planning, monthly human-reviewed budget recommendations, and an MCP server.
 - [Paramark](https://paramark.com) — Incrementality and MMM combined with growth advisory.
 - [Prescient AI](https://prescientai.com) — MMM-driven media measurement and optimization for ecommerce.
 - [Recast](https://getrecast.com) — Bayesian MMM platform; publishes public holdout-accuracy benchmarks.
@@ -121,6 +122,7 @@ Platforms and frameworks that deliberately combine MMM + incrementality + attrib
 An emerging space: agent skills and Model Context Protocol (MCP) servers that let assistants like Claude operate measurement platforms directly. Early but growing — contributions especially welcome here.
 
 - [Lifesight Skills](https://github.com/lifesight/lifesight) — Open-source agent skills (Claude Code plugin + Claude.ai bundle) for the Lifesight MCP: budget optimization, forecasting, incrementality, and board/CFO reporting. *(Maintainer of this list.)*
+- [Odins MCP](https://odins.ai/product/odins-mcp) — MCP server for the Odins MMM platform: ask budget and channel questions, run scenarios and forecasts, and pull spend and sales data from Claude, ChatGPT, or Copilot.
 - [Model Context Protocol](https://modelcontextprotocol.io) — The open standard these integrations build on.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Broader catalog of MCP servers (useful cross-reference for analytics/marketing servers).
 
