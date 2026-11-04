@@ -171,6 +171,7 @@ Foundational and frequently-cited work.
 - [Recast blog & resources](https://getrecast.com/blog/) — Deep technical writing on Bayesian MMM.
 - [Haus resources](https://haus.io) — Practical material on geo experimentation.
 - [PyMC-Marketing example notebooks](https://www.pymc-marketing.io/) — Hands-on MMM and CLV tutorials.
+- [Telegram Campaign Measurement: A Practical Metric Dictionary](https://gist.github.com/thinkpad2050/27f9b8293960b5bc6cb2c6990e626552) — Channel-specific glossary and editable placement log for campaign boundaries, reach, tracked visits, qualified conversations, attribution evidence, and outcome decisions.
 
 ## Communities & Events
 
