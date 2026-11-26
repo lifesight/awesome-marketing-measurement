@@ -122,6 +122,7 @@ An emerging space: agent skills and Model Context Protocol (MCP) servers that le
 
 - [Lifesight Skills](https://github.com/lifesight/lifesight) — Open-source agent skills (Claude Code plugin + Claude.ai bundle) for the Lifesight MCP: budget optimization, forecasting, incrementality, and board/CFO reporting. *(Maintainer of this list.)*
 - [Model Context Protocol](https://modelcontextprotocol.io) — The open standard these integrations build on.
+- [Qonvert Marketing AI: Audit campaign tracking](https://github.com/Qonvert-Marketing-AI/qonvert-marketing-skills/tree/main/skills/audit-campaign-tracking) — MIT-licensed agent skill that checks UTM parameters in supplied ad URLs and plans a follow-up test for click identifier capture.
 - [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) — Broader catalog of MCP servers (useful cross-reference for analytics/marketing servers).
 
 ## Privacy, Clean Rooms & Aggregated Measurement
